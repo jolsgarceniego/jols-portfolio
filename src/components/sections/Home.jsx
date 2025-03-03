@@ -14,7 +14,7 @@ export default function Home() {
             className='text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r
                     from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right'
           >
-            Hi, I&apos;m Pedro Tech
+            Hi, I&apos;m Jols
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
             I am a skilled WordPress Developer with experience in building and customizing websites using WordPress. 
