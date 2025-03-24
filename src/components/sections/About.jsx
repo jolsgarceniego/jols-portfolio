@@ -55,7 +55,7 @@ function About() {
               <h3 className='text-xl font-bold mb-4'>🏫Education</h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong>B.S. in Computer Science</strong> - XYZ University (2015 - 2018 )
+                  <strong>B.S. in Computer Science</strong> - AMA Computer College (May 2015 - May 2018)
                 </li>
                 <li>
                   Relevant Coursework: Data Structures and Algorithms, Web Development
